@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DH_CarrosApp</string>
+    <string name="cta_vejacarros">Siga para a próxima página e conheça os carros.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
